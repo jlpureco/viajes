@@ -1,2 +1,2 @@
 import streamlit as st
-st.wrtie('LR Travel')
+st.write('LR Travel')
